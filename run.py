@@ -1,5 +1,3 @@
-# 24301020086  阿依波塔·赛力克别克
-
 from othellolib import init_board, display_board, create_player, game, move_input, move_random,move_AI
 
 def main():
